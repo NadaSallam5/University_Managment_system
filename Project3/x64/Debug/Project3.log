@@ -1,0 +1,22 @@
+﻿  ADD.cpp
+  Admin.cpp
+  MyForm.cpp
+  Schedule.cpp
+  Student1.cpp
+  sucadminlog.cpp
+  year1_P.cpp
+  year1_Ps.cpp
+  year1_R.cpp
+  year1_Rs.cpp
+  year2.cpp
+  year2_s.cpp
+  year3.cpp
+  year3s.cpp
+  year4.cpp
+  year4_s.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3262,5): error MSB3821: Couldn't process file Admin.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file. Remove the mark of the web if you want to process these files.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3262,5): error MSB3821: Couldn't process file MyForm.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file. Remove the mark of the web if you want to process these files.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3262,5): error MSB3821: Couldn't process file Student1.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file. Remove the mark of the web if you want to process these files.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3262,5): error MSB3821: Couldn't process file sucadminlog.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file. Remove the mark of the web if you want to process these files.

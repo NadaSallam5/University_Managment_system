@@ -1,0 +1,36 @@
+
+Saturday: 
+FAE02 : from 8:00 am to 10:00 am
+
+COM200 : from 11:00 am to 12:30 pm
+
+SWE110 from 1:30 pm to 3:00 pm
+
+Sunday:
+ OFF
+
+Monday: 
+BAS111 from 8:30 am to 10:00 am
+
+CSC120 from 11:00am to 12:30 pm
+
+FAE02 from 1:00 pm to 2:30 pm
+
+Tuesday:
+COM200 from 10:00 am to 12:00 pm 
+
+SWE110 from 1:00 pm to 2:30 pm
+
+BAS11 from 3:00 pm to 4:30 pm
+
+Wednesday:
+SWE110 from 8:30 am to 10:00 am
+
+FAE02 from 10:30 am to 12:00 pm
+
+Thursday:
+CSC120 from 8:30 am to 10:30 am
+
+COM200 from 11:00 am to 12:30 am
+
+BAS111 from 1:00 pm to 2:30 pm

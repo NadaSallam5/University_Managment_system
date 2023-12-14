@@ -1,0 +1,37 @@
+Saturday :
+
+CSC340 : From 8:30 to 10:00
+
+CSC311: From 10:30 to 12:00
+
+SWE321 : From 1:30 to 3:00 
+
+Sunday : 
+
+CSC311 Lab : From 8:30 to 10:30
+
+CSC311 : From 1:00 to 2:30
+
+CSC340 : From 3:00 to 5:00
+
+Monday :
+
+SWE321 : From 10:30 to 12:00
+
+CSC344 Lab : From 1:00 to 3:00
+
+CSC340 : From 4:30 to 6:00
+
+Tuesday :
+
+SWE321 Lab : From 8:30 to 10:30
+
+CSC311 : From 1:00 to 3:00
+
+Wednesday :
+
+OFF
+
+Thursday : 
+
+OFF

@@ -1,0 +1,42 @@
+Saturday: 
+
+BAS111 : From 10:00 to 11:30
+
+ENG100 : From 1:00 to 2:30
+
+CSC120 : From 2:45 to 4:45 
+
+Sunday:
+
+CSC120 Lab : From 8:30 to 10:30
+
+SWE111 : From 11:30 to 1:00
+
+ENG100 : From 1:00 to 2:30
+
+Monday :
+ OFF
+
+Tuesday : 
+
+ENR101 : From 9:00 to 10:30
+
+SWE111 Lab : From 11:00 to 1:00
+
+SWE111 : From 1:30 to 3:00
+
+BAS111 Tutorial : From 3:30 to 5:30
+
+Wednesday:
+
+ENR101 : From 8:30 to 10:00
+
+BAS111 : From 10:30 to 12:00
+
+ENG100 : From 1:00 to 2:30
+
+Thursday :
+OFF
+
+
+ 

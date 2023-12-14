@@ -1,0 +1,24 @@
+C:\Users\Dell\source\repos\Project3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Project3\Project3\x64\Debug\Project3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Project3\Project3\x64\Debug\Project3.MyForm.resources
+C:\Users\Dell\source\repos\Project3\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Project3\Project3\x64\Debug\Project3.Admin.resources
+C:\Users\Dell\source\repos\Project3\Project3\x64\Debug\Project3.Student1.resources
+C:\Users\Dell\source\repos\Project3\Project3\x64\Debug\Project3.sucadminlog.resources
+C:\Users\VICTUS\Downloads\Project3\Project3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\VICTUS\Downloads\Project3\Project3\Project3\x64\Debug\Project3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\VICTUS\Downloads\Project3\Project3\Project3\x64\Debug\Project3.Admin.resources
+C:\Users\VICTUS\Downloads\Project3\Project3\Project3\x64\Debug\Project3.MyForm.resources
+C:\Users\VICTUS\Downloads\Project3\Project3\Project3\x64\Debug\Project3.Student1.resources
+C:\Users\VICTUS\Downloads\Project3\Project3\Project3\x64\Debug\Project3.sucadminlog.resources
+C:\Users\VICTUS\Downloads\Project3\Project3\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Project3 (2)\Project3\Project3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Project3 (2)\Project3\Project3\Project3\x64\Debug\Project3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Project3 (2)\Project3\Project3\Project3\x64\Debug\Project3.ADD.resources
+C:\Users\Dell\Desktop\Project3 (2)\Project3\Project3\Project3\x64\Debug\Project3.Admin.resources
+C:\Users\Dell\Desktop\Project3 (2)\Project3\Project3\Project3\x64\Debug\Project3.MyForm.resources
+C:\Users\Dell\Desktop\Project3 (2)\Project3\Project3\Project3\x64\Debug\Project3.Schedule.resources
+C:\Users\Dell\Desktop\Project3 (2)\Project3\Project3\Project3\x64\Debug\Project3.Student1.resources
+C:\Users\Dell\Desktop\Project3 (2)\Project3\Project3\Project3\x64\Debug\Project3.sucadminlog.resources
+C:\Users\Dell\Desktop\Project3 (2)\Project3\Project3\Project3\x64\Debug\Project3.year1_R.resources
+C:\Users\Dell\Desktop\Project3 (2)\Project3\Project3\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache

@@ -1,0 +1,35 @@
+Saturday
+
+SWE210 From 8:30 AM  to  10 AM
+CSC230 From 10:30 AM to  12 PM
+CSC210 From 1:00 PM  to  2:30 PM
+INF230 From 3:00 PM  to   4:30 PM
+ENG101 From 4:30 PM  to 6:00 PM  
+
+SUNDAY
+
+SWE210 From 8:30 AM  to  10 AM
+CSC210 From 1:00 PM  to  2:30 PM
+INF230 From 3:00 PM  to   4:30 PM
+ENG101 From 4:30 PM  to 6:00 PM  
+ 
+MONDAY
+
+CSC210 From 1:00 PM  to  2:30 PM
+INF230 From 3:00 PM  to   4:30 PM
+ENG101 From 4:30 PM  to 6:00 PM  
+
+TUESDAY
+
+SWE210 From 8:30 AM  to  10 AM
+CSC230 From 10:30 AM to  12 PM
+CSC210 From 1:00 PM  to  2:30 PM
+INF230 From 3:00 PM  to   4:30 PM
+
+WEDNESDAY
+
+CSC230 From 10:30 AM to  12 PM
+CSC210 From 1:00 PM  to  2:30 PM
+INF230 From 3:00 PM  to   4:30 PM
+ 
+
